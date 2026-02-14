@@ -15,7 +15,7 @@ A simple Java command-line application that fetches nearby transport hubs from a
 
 ## Requirements
 
-- Java JDK 17 or higher
+- Java JDK 25
 - Maven 3.8 or higher
 - Internet access (to query the Cloudant database)
 
